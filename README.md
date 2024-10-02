@@ -1,6 +1,8 @@
 # Subdomain Validator
 check subdomain status
 
+![ss](images/screenshot.png)
+
 **Subdomain Validator** adalah alat yang dirancang untuk memvalidasi ketersediaan subdomain dari daftar yang diberikan. Alat ini akan memeriksa setiap subdomain dan menginformasikan Anda tentang status HTTP yang diterima.
 
 ### Fitur
