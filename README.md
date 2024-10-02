@@ -22,3 +22,9 @@ check subdomain status
    cd subcheck
    ```
 
+## Penggunaan 
+
+```bash
+python3 subcheck.py -help
+```
+
