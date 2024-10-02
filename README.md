@@ -1,0 +1,2 @@
+# subcheck
+check subdomain status
